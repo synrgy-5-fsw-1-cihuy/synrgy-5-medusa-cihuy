@@ -1,6 +1,7 @@
 #promo-ground {
-    background-image: url('../assets/img/ground-removebg-preview.png') center center;
-    min-height: 400px;
+    background-image: url('../assets/img/ground.jpg');
+    color: #EEF2E6;
+    padding: 20px;
 }
 .howtobuy {
   background-color: #eef2e6;
