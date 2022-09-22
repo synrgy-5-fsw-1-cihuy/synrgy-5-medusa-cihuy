@@ -1,3 +1,37 @@
+.footer-section{
+    margin-top: auto;
+    position: relative;
+    background-color: #1C6758;
+    color:white;
+}
+.section{
+    align-items: center;
+    min-height: 45vh;
+    display: flex;
+}
+.footer-section a {
+    text-decoration: none;
+    color: white;
+}
+.foot-left{
+    text-align: left;
+}.foot-center{
+    text-align: center;
+    font-size: 24px;
+    letter-spacing: 6px;
+}.foot-right{
+    text-align: right;
+}
+.foot-center img{
+    width: 60px;
+    margin-right: 2px;
+}
+.copyright{
+    padding-top:30px;
+    padding-bottom:10px;
+    text-align: center;
+    font-size: 16px;
+}
 .howtobuy {
   background-color: #eef2e6;
 }
