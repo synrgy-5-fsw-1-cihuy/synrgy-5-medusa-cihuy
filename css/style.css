@@ -1,3 +1,8 @@
+#promo-ground {
+    background-image: url('../assets/img/ground.jpg');
+    color: #EEF2E6;
+    padding: 20px;
+}
 .footer-section{
     margin-top: auto;
     position: relative;
@@ -34,4 +39,7 @@
 }
 .howtobuy {
   background-color: #eef2e6;
+}
+.bg-dark-green {
+  background-color: #1c6758;
 }
