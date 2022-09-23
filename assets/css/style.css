@@ -1,5 +1,5 @@
 #promo-ground {
-    background-image: url('../assets/img/ground.jpg');
+    background-image: url('../img/ground.jpg');
     color: #EEF2E6;
     padding: 20px;
 }
@@ -43,3 +43,18 @@
 .bg-dark-green {
   background-color: #1c6758;
 }
+
+@media only screen and (max-width: 600px) {
+    .foot-left{
+        text-align: center;
+        padding-top: 30px;
+    }
+    .foot-right{
+        text-align: center;
+        padding-top: 10px;
+    }
+    .foot-center{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+} 
